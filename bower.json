@@ -1,0 +1,26 @@
+{
+  "name": "aula_09",
+  "description": "AngularJS",
+  "main": "index.js",
+  "authors": [
+    "Matheus Nakano <matheusyuititnk@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "DSWA5"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.7",
+    "angular-route": "1.3",
+    "bootstrap": "^4.4.1",
+    "angular-resource": "1.3"
+  }
+}
